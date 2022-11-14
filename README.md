@@ -1,2 +1,0 @@
-# jegtr.github.io
-SITUR
